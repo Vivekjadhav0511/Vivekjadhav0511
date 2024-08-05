@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vivek Jadhav </h1>
 
-![](https://github-profile-trophy.vercel.app/?username=arihantdotcom&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 <p align="left"> <a href="https://github.com/Vivekjadhav0511" target="blank"><img src="https://img.shields.io/twitter/follow/imvivek_8411?logo=twitter&style=for-the-badge" alt="vivekjadhav0511" /></a> </p>
 
